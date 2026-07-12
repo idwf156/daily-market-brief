@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 17:55",
+  "updatedAt": "2026-07-12 21:57",
   "items": [
     {
       "group": "股市指數",
@@ -115,10 +115,10 @@
       "group": "匯率",
       "name": "比特幣",
       "symbol": "BTC-USD",
-      "price": 63941.98,
+      "price": 63980.05,
       "previousClose": 63777.508,
-      "change": 164.47200000000157,
-      "changePercent": 0.25788401766968,
+      "change": 202.54200000000128,
+      "changePercent": 0.3175759077949569,
       "currency": "USD"
     }
   ]
